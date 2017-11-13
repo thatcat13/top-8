@@ -1,0 +1,39 @@
+body {
+  font-family: 'Karla', sans-serif;
+  background-color: #ffeddb;
+}
+
+.box {
+  width: 25%;
+  float: left; /* Pushes divs together on one row */
+  display: inline-block;
+  text-align: center;
+}
+
+.view-all {
+  display: block;
+}
+
+.view-all h4 {
+  float: right;
+  margin-right: 50px;
+  color: #ff7802;
+  font-weight: 700;
+}
+
+img {
+  border: 3px solid coral;
+  border-radius: 10%;
+}
+
+h3 {
+  display: block;
+  background-color: #ffce9b;
+  font-size: 1.5em;
+  color: #ff7802;
+  padding: 30px;
+}
+
+.pick {
+  margin-left: 30px;
+}
